@@ -160,4 +160,3 @@ The following preprocessing steps were performed:
 - Male penguins were generally heavier than females.
 - Bill measurements and flipper lengths helped distinguish species effectively.
 - Data visualizations revealed meaningful relationships and distributions.
-- The dataset is well-suited for machine learning classification and predictive analytics tasks.
